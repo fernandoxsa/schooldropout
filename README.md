@@ -20,8 +20,8 @@ Desenvolvida como solução para o desafio proposto pela prefeitura: transformar
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/edupredict.git
-cd edupredict
+git clone https://github.com/fernandoxsa/schooldropout.git
+cd schooldropout
 
 # Instale as dependências
 pip install -r requirements.txt
@@ -38,7 +38,7 @@ O app estará disponível em `http://localhost:8501`
 
 A aplicação está publicada no **Streamlit Community Cloud**:
 
-👉 **[Link do deploy aqui]**
+👉 **[https://school-dropout-jptaj9cuopjrhdqgbmefaq.streamlit.app/](https://school-dropout-jptaj9cuopjrhdqgbmefaq.streamlit.app/)**
 
 ---
 
@@ -117,6 +117,11 @@ O modelo MLP atingiu:
 - Não substitui avaliação pedagógica profissional
 
 ---
+
+## 📚 Referências
+
+- GERON, Aurélien. *Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow*. O'Reilly, 2019.
+- RUSSELL, Stuart; NORVIG, Peter. *Artificial Intelligence: A Modern Approach*. Pearson, 2021.
 
 ## 📚 Referências
 
